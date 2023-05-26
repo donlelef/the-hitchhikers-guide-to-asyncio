@@ -24,8 +24,8 @@ async def main():
     cancellations = sum(1 for t in tasks if t.cancelled())
     print(f'Exceptions: {exceptions} Cancellations: {cancellations} Tasks: {len(tasks)}')
 
-    sum_of_first_500_numbers = sum([int(t.result().json()['args']['incremental_id']) for t in tasks])
-    print(f'Sum of first {len(tasks)} numbers: {sum_of_first_500_numbers}')
+    sum_of_first_20_numbers = sum([int(t.result().json()['args']['incremental_id']) for t in tasks])
+    print(f'Sum of first {len(tasks)} numbers: {sum_of_first_20_numbers}')
 
 
 if __name__ == '__main__':
