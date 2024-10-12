@@ -2,6 +2,10 @@
 
 Code examples for the talk "The Hitchhiker's Guide to Asyncio".
 
-The video is public on [YouTube](https://www.youtube.com/watch?v=UyRj8Sh3E_Y).
+Recordings of this talk are available on YouTube:
+- [Python Milan Meetup](https://www.youtube.com/live/UyRj8Sh3E_Y?si=F3JARuJIVv4PjGOY)
+- [PyCon Italy](https://youtu.be/k0fzfhRJ2UM?si=6osxtOZK8uAh8ntv)
 
-The slides can be found on [Google Drive](https://docs.google.com/presentation/d/1d4H-cRfExWDgO7XJicldfvQ9wS28EJZ7Hr_RHvEgUxg/edit?usp=sharing).
+The slides can be found on [Canva](https://www.canva.com/design/DAGTYlQ6szE/x0Tt8cZIQ_GDdJsY1--W2g/edit?utm_content=DAGTYlQ6szE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton).
+
+Made with ❤️ by [Emanuele Fabbiani](https://www.linkedin.com/in/emanuelefabbiani/) at [xtream](https://xtreamers.io/).
